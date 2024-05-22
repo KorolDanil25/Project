@@ -46,8 +46,9 @@
 ## Скриншоты
 
 Главная страница:
-![Главная страница](https://github.com/KorolDanil25/Project/blob/master/photo_2024-05-22_06-47-19.jpg)
-![]
-![]
-![]
-![]
+![Главная Окно](https://github.com/KorolDanil25/Project/blob/master/image/1.jpg)
+![Выполнения операции Деление](https://github.com/KorolDanil25/Project/blob/master/image/3.jpg)
+![Выполнения операции Умножение](https://github.com/KorolDanil25/Project/blob/master/image/6.jpg)
+![Выполнения операции Сложение](https://github.com/KorolDanil25/Project/blob/master/image/5.jpg)
+![Выполнения операции Вычетание](https://github.com/KorolDanil25/Project/blob/master/image/2.jpg)
+![Выполнения операции Процент от числа](https://github.com/KorolDanil25/Project/blob/master/image/4.jpg)
