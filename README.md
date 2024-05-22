@@ -45,15 +45,26 @@
 
 ## Скриншоты
 
-Главная страница:
+Главное окно:
+
 ![Главная Окно](https://github.com/KorolDanil25/Project/blob/master/image/1.jpg)
+
+Деление:
 
 ![Выполнения операции Деление](https://github.com/KorolDanil25/Project/blob/master/image/3.jpg)
 
+Умножение:
+
 ![Выполнения операции Умножение](https://github.com/KorolDanil25/Project/blob/master/image/6.jpg)
+
+Сложение:
 
 ![Выполнения операции Сложение](https://github.com/KorolDanil25/Project/blob/master/image/5.jpg)
 
+Вычетание:
+
 ![Выполнения операции Вычетание](https://github.com/KorolDanil25/Project/blob/master/image/2.jpg)
+
+Процент от числа:
 
 ![Выполнения операции Процент от числа](https://github.com/KorolDanil25/Project/blob/master/image/4.jpg)
