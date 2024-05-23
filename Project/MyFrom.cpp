@@ -15,24 +15,19 @@ namespace Project {
 	using namespace System::Data;
 	using namespace System::Drawing;
 
-	/// <summary>
-	/// Сводка для MyForm
-	/// </summary>
+	
 	public ref class MyForm : public System::Windows::Forms::Form
 	{
 	public:
 		MyForm(void)
 		{
 			InitializeComponent();
-			//
-			//TODO: добавьте код конструктора
-			//
+			
+
 		}
 
 	protected:
-		/// <summary>
-		/// Освободить все используемые ресурсы.
-		/// </summary>
+		
 		~MyForm()
 		{
 			if (components)
@@ -55,16 +50,11 @@ namespace Project {
 	private: System::Windows::Forms::Button^ button5;
 
 	private:
-		/// <summary>
-		/// Обязательная переменная конструктора.
-		/// </summary>
+		
 		System::ComponentModel::Container^ components;
 
 #pragma region Windows Form Designer generated code
-		/// <summary>
-		/// Требуемый метод для поддержки конструктора — не изменяйте 
-		/// содержимое этого метода с помощью редактора кода.
-		/// </summary>
+		
 		void InitializeComponent(void)
 		{
 			this->textBox1 = (gcnew System::Windows::Forms::TextBox());
